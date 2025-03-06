@@ -5,7 +5,7 @@ import { Button, Card, Carousel, Form } from 'react-bootstrap'
 function Home() {
   return (
     <>
-     <div className="container-fluid d-flex flex-column justify-content-center align-items-center p-3 p-md-5" style={{backgroundColor:"#3a3a3a", height:"400px",backgroundImage: "url('https://static.vecteezy.com/system/resources/previews/025/863/486/non_2x/bearded-athlete-runs-showcasing-endurance-in-scenic-landscape-near-river-dressed-in-active-wear-fitness-and-workout-concept-photo.JPG')", backgroundRepeat:"no-repeat",backgroundSize: "cover",
+     <div className="container-fluid d-flex flex-column justify-content-center align-items-center p-3 p-md-5" style={{backgroundColor:"#3a3a3a", height:"400px",backgroundImage: "url('https://static.vecteezy.com/system/resources/previews/025/863/486/non_2x/bearded-athlete-runs-showcasing-endurance-in-scenic-landscape-near-river-dressed-in-active-wear-fitness-and-workout-concept-photo.JPG')", backgroundSize: "cover",
        backgroundPosition: "center",
        backgroundRepeat: "no-repeat"}}>
       <h1 className="text-white text-uppercase fs-bold">Are you ready!!</h1>
